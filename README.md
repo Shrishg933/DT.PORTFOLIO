@@ -23,7 +23,7 @@ Contact section with email and LinkedIn links.
 Tech Stack
 HTML5
 
-CSS3
+CSS
 
 Installation and Use
 Download or clone the repository.
